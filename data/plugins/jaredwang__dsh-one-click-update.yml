@@ -1,0 +1,6 @@
+url: https://github.com/jaredwang/dsh-one-click-update
+name: jaredwang/dsh-one-click-update
+category: market
+description:
+  en: "One-click lazy update: a sidebar entry in the dsh Web UI updates every installed plugin that has a newer version in one go (live progress per item), then hands off to the desktop app's built-in updater when an app update is available — no version checking or picking."
+  zh: "一键懒人更新：在 dsh 侧边栏加一个入口，点一下就把所有有新版本的已安装插件依次更新完，App 有更新时接着打开桌面 App 自带的更新流程；全程有进度，不用自己查版本、挑条目。"
